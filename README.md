@@ -36,7 +36,7 @@
 - 👉 IT Enthusiastic
 - 💻 The tech I'm interested in Mobile Apps,Software,Android.
 - ✍ Technical writer at Medium
-- ✨ I'm learning Flutter, React Js, React Native Automations etc.
+- ✨ I'm learning Flutter, React Js, React Native etc.
 - 📄 [Portfolio][profile]
 
 ### Languages & Tools
