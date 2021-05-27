@@ -32,12 +32,11 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Full Stack Developer at [Bri
-- 👉 Leading [Flutter Islamabad][flutter_isb]
-- 💻 The tech I'm interested in Android, Kotlin, AR/VR and ML
+- 🙋‍♂️ Full Stack Developer at [Bright Office]
+- 👉 IT Enthusiastic
+- 💻 The tech I'm interested in Mobile Apps,Software,Android.
 - ✍ Technical writer at Medium
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
+- ✨ I'm learning Flutter, React Js, React Native Automations etc.
 - 📄 [Portfolio][profile]
 
 ### Languages & Tools
