@@ -28,18 +28,17 @@
 </div>
 
 
-### A Student, Developer & Writer
+### A Student, Jr. Full Stack Software Developer & Writer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
-
-- 🙋‍♂️ Full Stack Developer at [Bright Office]
+- 🙋‍♂️ Web Developer Intern at [Aryal Healthcare Consultants]
+- 🙋‍♂️ Software Developer at [Bright Office]
 - 👉 IT Enthusiastic
 - 💻 The tech I'm interested in Mobile Apps,Software,Android.
 - ✍ Technical writer at Medium
 - ✨ I'm learning Flutter, React Js, React Native etc.
-- 📄 [Portfolio][profile]
 
 ### Languages & Tools
 
