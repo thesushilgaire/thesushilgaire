@@ -28,7 +28,7 @@
 </div>
 
 
-### A Student, Jr. Full Stack Software Developer & Writer
+### Jr. Full Stack Software Developer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
