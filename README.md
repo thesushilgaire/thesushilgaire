@@ -56,9 +56,6 @@
 
 [![Gaire's github stats](https://github-readme-stats.vercel.app/api?username=thesushilgaire&theme=gotham)](https://github.com/thesushilgaire/github-readme-stats)
 
-
-Full Stack Developer from <b>Nepal<b> 💚
-
 ![](https://visitor-badge.glitch.me/badge?page_id=thesushilgaire.thesushilgaire)
 
 [profile]: http://thesushilgaire.github.io
