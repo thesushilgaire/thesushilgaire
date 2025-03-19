@@ -34,7 +34,8 @@
 
 #### Talking about my personal stuff:
 - 🙋‍♂️ Web Developer Intern at [Aryal Healthcare Consultants]
-- 🙋‍♂️ Software Developer at [Bright Office]
+- 🙋‍♂️ Software Developer at [BrightIT]
+- 🙋‍♂️ Web Developer at [NCT Soft]
 - 👉 IT Enthusiastic
 - 💻 The tech I'm interested in Mobile Apps,Software,Android.
 - ✍ Technical writer at Medium
